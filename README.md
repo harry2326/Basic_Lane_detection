@@ -1,6 +1,5 @@
 Explanation Video
-(https://drive.google.com/your-link](https://drive.google.com/drive/folders/1gmGoDvOJ-CsIo6gUKX71LfIXFV2jvEOD?usp=sharing)
-
+https://drive.google.com/drive/folders/1gmGoDvOJ-CsIo6gUKX71LfIXFV2jvEOD?usp=sharing
 
 Lane Detection using OpenCV
 This project implements a basic lane detection pipeline using computer vision techniques in Python with OpenCV. It processes a video, detects lane-like lines, and overlays them on the original frames.
